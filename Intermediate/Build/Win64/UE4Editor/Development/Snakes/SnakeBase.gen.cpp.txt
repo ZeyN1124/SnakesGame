@@ -1,0 +1,5 @@
+C:\Unreal prot\Snakes\Intermediate\Build\Win64\UE4Editor\Development\Snakes\Definitions.Snakes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Unreal prot\Snakes\Source\Snakes/SnakeBase.h
+C:\Unreal prot\Snakes\Intermediate\Build\Win64\UE4Editor\Inc\Snakes\SnakeBase.generated.h

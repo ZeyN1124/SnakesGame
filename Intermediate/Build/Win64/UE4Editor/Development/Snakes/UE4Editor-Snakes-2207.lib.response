@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Snakes-2207.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal prot\Snakes\Intermediate\Build\Win64\SnakesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Unreal prot\Snakes\Intermediate\Build\Win64\UE4Editor\Development\Snakes\PlayerPawnBase.cpp.obj"
+"C:\Unreal prot\Snakes\Intermediate\Build\Win64\UE4Editor\Development\Snakes\Snakes.cpp.obj"
+"C:\Unreal prot\Snakes\Intermediate\Build\Win64\UE4Editor\Development\Snakes\SnakesGameModeBase.cpp.obj"
+"C:\Unreal prot\Snakes\Intermediate\Build\Win64\UE4Editor\Development\Snakes\PlayerPawnBase.gen.cpp.obj"
+"C:\Unreal prot\Snakes\Intermediate\Build\Win64\UE4Editor\Development\Snakes\Snakes.init.gen.cpp.obj"
+"C:\Unreal prot\Snakes\Intermediate\Build\Win64\UE4Editor\Development\Snakes\SnakesGameModeBase.gen.cpp.obj"
+"C:\Unreal prot\Snakes\Intermediate\Build\Win64\UE4Editor\Development\Snakes\Default.rc2.res"
+/OUT:"C:\Unreal prot\Snakes\Intermediate\Build\Win64\UE4Editor\Development\Snakes\UE4Editor-Snakes-2207.lib"
